@@ -4,7 +4,7 @@ I enjoy working on open source projects. I am currently the lead software develo
 My technical knowledge and experience are in scientific computing, image processing, and nanotechnology.
 
 Publications:
-- Shapelet-based orientation and defect identification method for nanostructured surface imaging - 10.1088/1361-6528/ad1df4
+- Shapelet-based orientation and defect identification method for nanostructured surface imaging, www.doi.org/10.1088/1361-6528/ad1df4
 
 Contact:
 - mptino@uwaterloo.ca
