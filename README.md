@@ -1,11 +1,7 @@
-Hello! I am a recent Chemical Engineering MASc graduate from the University of Waterloo and also hold a BASc in Nanotechnology Engineering (2022).
-My research focused on the development of image processing and machine learning algorithms to characterize images of complex nanostructures (i.e. from self-assembly).
+Hello! My name is Matthew and I am a developer of and contributor to open-source scientific software. I recently created the [shapelets](https://github.com/uw-comphys/shapelets) python library, developed during my Master's degree, which contains various image characterization algorithms with supported methods for astrophysics and material science.
 
-I enjoy working on open-source projects.
-I am the creator and primary maintainer of the [shapelets](https://github.com/uw-comphys/shapelets) python library, developed as part of my masters work.
-I am experienced in developing high-level scientific software in Linux environments using git/mercurial version control systems.
-
-Resume available [here](https://github.com/mptino/mptino/blob/main/MatthewTino_Resume.pdf).
+My background is in Nanotechnology and I am experienced developing/working with scientific code.
+I am comfortable with Linux systems and have worked in various areas, such as image processing, machine learning, and computational fluid dynamics. 
 
 Publications:
 - Tino et al., (2024). "Shapelet-based orientation and defect identification method for nanostructured surface imaging". *Nanotechnology*, 35(16), 165705, https://doi.org/10.1088/1361-6528/ad1df4.
