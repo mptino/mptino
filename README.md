@@ -3,4 +3,4 @@ Hello! My name is Matthew. I am currently an HPC Applications Engineer for [Astr
 
 ### Contact
 * [LinkedIn](https://linkedin.com/in/matthewtino)
-* [Orcid - Matthew Tino]https://orcid.org/0009-0005-6832-1761
+* [Orcid](https://orcid.org/0009-0005-6832-1761)
