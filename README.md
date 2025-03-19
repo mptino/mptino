@@ -1,7 +1,8 @@
-Hello! My name is Matthew. I am currently an HPC Applications Engineer for [AstraZeneca](https://www.astrazeneca.ca/en) for the Scientific Computing Platform (SCP). 
+## About
+Hello! My name is Matthew. I am currently an HPC Applications Engineer for [AstraZeneca](https://www.astrazeneca.ca/en)'s high-performance computing platform, Scientific Computing Platform (SCP). I own the [shapelets](https://github.com/uw-comphys/shapelets) Python library, an open-source project implementing different image analysis techniques using shapelet functions.
 
-I am the creator and primary maintainer of the [shapelets](https://github.com/uw-comphys/shapelets) Python library, an open-source  project implementing different image analysis techniques using shapelet functions.
+## Papers
+https://orcid.org/0009-0005-6832-1761
 
-* [Nanotechnology](https://doi.org/10.1088/1361-6528/ad1df4)\
-* [Journal of Open Source Software](https://doi.org/10.21105/joss.06058)
+## Contact
 * [LinkedIn](https://linkedin.com/in/matthewtino)
