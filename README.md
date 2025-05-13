@@ -1,5 +1,6 @@
 HPC Applications Engineer for [AstraZeneca](https://www.astrazeneca.ca/en)'s high-performance computing platform, Scientific Computing Platform (SCP). 
-I own the [shapelets](https://github.com/uw-comphys/shapelets) Python library, an open-source project implementing different image analysis techniques using shapelet functions for microscopy images of nanostructures.
+
+I own the [shapelets](https://github.com/uw-comphys/shapelets) Python library, an open-source project implementing different image analysis techniques using shapelet functions.
 
 [linkedin.com/in/MatthewTino](https://linkedin.com/in/matthewtino)
 
